@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
   reactStrictMode: true,
-  swcMinify: true,
   images: {
-    domains: ["image.tmdb.org"],
+    domains: ["image.tmdb.org", "rb.gy"],
   },
 };
