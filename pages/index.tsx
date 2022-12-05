@@ -39,7 +39,7 @@ export default function Home({
   return (
     <div className="relative h-screen bg-gradient-to-b lg:h-[140vh]">
       <Head>
-        <title>Create Next App</title>
+        <title>Netflix Clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
